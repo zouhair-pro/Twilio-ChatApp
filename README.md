@@ -8,6 +8,8 @@
   3- cd ios && pod install <br />
   4 - node server.js <br />
   5- npx react-native run-ios --simulator="iPhone 8" <br />
+  5- npx react-native run-ios --simulator="iPhone 8 Plus" <br />
+  
   
 
 
