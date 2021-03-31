@@ -9,7 +9,6 @@
   4 - node server.js <br />
   5- npx react-native run-ios --simulator="iPhone 8" <br />
   
- 
- ## Twilio APis Already integreted
+
 
 
